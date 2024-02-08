@@ -1,0 +1,54 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    max-width:1140px;
+    margin: 0 auto;
+}
+.colorCs{
+    color:#AF9D5A;
+}
+.btnId{
+    background-color:#AF9D5A;
+    padding:12px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.mainHeader{
+    background-image: url("../images/banner.png");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:550px;
+    border-radius: 8px;
+    
+}
+.carouselImg{
+    height:500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.carosulCircilePhoto{
+    width:100px;
+}
+.carosulItem, .frequently, .inforMation, .footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.frequentlyImg img{
+    width: 380px;
+}
+.inputMessage{
+    height: 100px;
+   
+}
+.submitBtn{
+    background-color: #AF9D5A;
+    border-radius: 3px;
+}
+
+
+
